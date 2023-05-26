@@ -1,16 +1,7 @@
-# send_message
+# send_message from flutter app to MQTTX
 
 A new Flutter project.
 
-## Getting Started
+## Flutter ==> MQTT
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Welcome to my Flutter app for sending user messages to MQTTX! This app allows users to input messages and send them to an MQTT broker using the MQTTX library. With a simple and intuitive user interface, this app is perfect for anyone looking to quickly and easily send messages to an MQTT broker. Whether you're a developer looking to integrate MQTT into your own app, or just someone who wants to experiment with MQTT, this app is a great place to start.
